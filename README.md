@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+⚫ im just a newbie git
+⚫ please to meet ya
 <!--
 **duelsimcard0131/duelsimcard0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
